@@ -28,9 +28,7 @@ Semua kebutuhan di atas harus dipenuhi agar sistem online shopping dapat membera
 
 
 # usecase Diagram - Online Shopping
-![image](https://github.com/riskibowo/usecase_Diagram_ATM/assets/115862112/7bf5d0ae-b524-4b95-84cd-ee7a0dcbcd8f)
-
-
+![image](https://github.com/riskibowo/usecase_Diagram_ATM/assets/115862112/a14b4668-3b3b-44ab-a20d-aebe175ce331)
 
 # gambar_1_Activity Diagram - Online Shopping
 
