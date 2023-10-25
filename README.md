@@ -36,7 +36,7 @@ Semua kebutuhan di atas harus dipenuhi agar sistem online shopping dapat membera
 
 
 # Sequence Diagram - Online Shopping
-![image](https://github.com/riskibowo/usecase_Diagram_ATM/assets/115862112/8d04fa9d-6b94-40d9-88f8-a465e7c7e1fb)
+![image](https://github.com/riskibowo/usecase_Diagram_ATM/assets/115862112/f61c37bf-a26a-4383-b15e-6413b170d879)
 
 # claas diagram - Online Shopping
 
