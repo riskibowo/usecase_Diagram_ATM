@@ -31,14 +31,11 @@ Semua kebutuhan di atas harus dipenuhi agar sistem online shopping dapat membera
 ![image](https://github.com/riskibowo/usecase_Diagram_ATM/assets/115862112/a14b4668-3b3b-44ab-a20d-aebe175ce331)
 
 # gambar_1_Activity Diagram - Online Shopping
-
-![image](https://github.com/riskibowo/usecase_Diagram_ATM/assets/115862112/a0fb1827-75b4-4c48-afd7-d16a421368db)
-
+![Untitled Workspace (4)](https://github.com/riskibowo/usecase_Diagram_ATM/assets/115862112/0b26b598-5772-450a-a185-08eeb361b32b)
 
 # Sequence Diagram - Online Shopping
 ![image](https://github.com/riskibowo/usecase_Diagram_ATM/assets/115862112/f61c37bf-a26a-4383-b15e-6413b170d879)
 
 # claas diagram - Online Shopping
-
 ![image](https://github.com/riskibowo/usecase_Diagram_ATM/assets/115862112/4427f0a4-9b39-4cc0-896e-b11c29ef0bd0)
 
